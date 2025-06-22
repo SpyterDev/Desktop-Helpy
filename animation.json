@@ -1,0 +1,45 @@
+{
+    "Name": "Helpy",
+    "Snippets": [
+        {
+            "SpritesheetName": "epic.png",
+            "Amount": 4,
+            "FrameHeight": 400,
+            "FrameWidth": 400,
+            "LengthSecs": 0.5,
+            "WindowAnimation": "",
+            "WindowAnimationFlags": null,
+            "Loops": 10
+        },
+        {
+            "SpritesheetName": "left.png",
+            "Amount": 2,
+            "FrameHeight": 400,
+            "FrameWidth": 400,
+            "LengthSecs": 0.5,
+            "WindowAnimation": "",
+            "WindowAnimationFlags": null,
+            "Loops": 4
+        },
+        {
+            "SpritesheetName": "right.png",
+            "Amount": 2,
+            "FrameHeight": 400,
+            "FrameWidth": 400,
+            "LengthSecs": 0.5,
+            "WindowAnimation": "",
+            "WindowAnimationFlags": null,
+            "Loops": 10
+        },
+        {
+            "SpritesheetName": "jumping.png",
+            "Amount": 2,
+            "FrameHeight": 400,
+            "FrameWidth": 400,
+            "LengthSecs": 0.7,
+            "WindowAnimation": "jumping",
+            "WindowAnimationFlags": 20,
+            "Loops": 3
+        }
+    ]
+}
